@@ -1,7 +1,7 @@
 # Flipper-IRDB
 An IR database for the flipper zero.
 
-# How to install?
+# How to install IR files
 Go to the Infared folder on your flipper Zero sd card and copy the IR fle to it.
 
 # Devices
